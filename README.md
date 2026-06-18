@@ -1,6 +1,6 @@
 BEE 208: Introduction to Computer Programming Using C++  ## Student Information 
 Name: MAUD NUNANA-DZISAH
-Index Number: 
+Index Number: 01245961B
 Programme: BTECH ELECTRICAL AND ELECTRONICS ENGINEERING
 Level: 200
 Institution: ACCRA TECHNICAL UNIVERSITY
